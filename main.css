@@ -1,0 +1,36 @@
+/* CSS reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+html {
+  display: flex;
+}
+
+img {
+  max-width: 100%;
+}
+div{
+  text-align: center;
+  margin-top: -55%;
+ }
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 100;
+  font-size: 45px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0 2em;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 20px;
+  padding: 4em
+}
